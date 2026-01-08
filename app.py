@@ -240,4 +240,5 @@ elif selection == "6. Closeout & Reconciliation":
     st.checkbox("Reconcile Contractor Overtime Hours")
     st.checkbox("Return unused spares to Warehouse inventory")
     st.checkbox("Submit Regulatory Emissions Report")
+
     st.checkbox("Finalize Lessons Learned Session")
